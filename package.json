@@ -1,0 +1,17 @@
+{
+  "name": "read-excel-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brad",
+  "license": "ISC",
+  "dependencies": {
+    "g-sheets-api": "^2.2.0",
+    "googleapis": "^132.0.0",
+    "read-excel-file": "^5.7.1"
+  }
+}
